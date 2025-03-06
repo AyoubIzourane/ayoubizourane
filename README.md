@@ -11,6 +11,18 @@ Passionate about technology and innovation, I am a Full Stack Developer with a s
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AyoubIzourane?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
+<p align="left">
+   <a href="https://www.linkedin.com/in/ayoub-izourane-5247141aa/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100px" />
+   </a>
+   <a href="https://github.com/AyoubIzourane">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100px" />
+   </a>
+   <a href="mailto:ayoubizournae4@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="100px" />
+   </a>
+</p>
+
 ---
 
 ### 🧰 Languages and Tools
@@ -43,7 +55,6 @@ Currently, I'm actively working on various web and mobile projects, collaboratin
 ![Ayoub's GitHub stats](https://streak-stats.demolab.com?user=AyoubIzourane&theme=gruvbox&border_radius=4.5)
 
 ---
-
 
 ### 🌍 Find me on
 
