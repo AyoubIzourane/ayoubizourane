@@ -44,16 +44,9 @@ Currently, I'm actively working on various web and mobile projects, collaboratin
 
 ---
 
-### 📚 Research & Projects
-
-- [Conception et création d’une application de gestion de workflow visuel chez COPAG](https://github.com/AyoubIzourane/workflow-copag)
-- [Développement d’un système distribué bancaire chez UIZ-FSA](https://github.com/AyoubIzourane/banking-distributed-system)
-- [Développement d’une plateforme de gestion et de réservation d’événements](https://github.com/AyoubIzourane/event-management-platform)
-
----
 
 ### 🌍 Find me on
 
-- [LinkedIn](https://www.linkedin.com/in/ayoub-izourane/)
+- [LinkedIn](https://www.linkedin.com/in/ayoub-izourane-5247141aa/)
 - [GitHub](https://github.com/AyoubIzourane)
 - [Email](mailto:ayoubizournae4@gmail.com)
